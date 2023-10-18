@@ -22,7 +22,7 @@ function getFontWeightNum(weight: string) {
   }
 }
 
-// todo 自动生成配置
+// warning todo 自动生成配置
 const allFamily = {
   'AlibabaPuHuiTi-2': ['thin', 'light', 'regular', 'medium', 'semibold', 'bold', 'extrabold', 'black', 'heavy'],
   'HarmonyOS_Sans_SC': ['thin', 'light', 'regular', 'medium', 'bold', 'black'],
@@ -31,6 +31,7 @@ const allFamily = {
   'smiley-sans': ['regular'],
   'LXGWWenKai': ['light', 'regular', 'bold'],
   'LXGWWenKaiMono': ['light', 'regular', 'bold'],
+  '仓耳今楷': ['regular'],
 }
 
 const ranges = {
@@ -9007,6 +9008,7 @@ export async function generateFontCss(family: string, weight: number[]): Promise
       }
     }
     const ccsText = fontFace.join('\n')
+
     fs.writeFileSync(`${savePath}`, ccsText, 'utf-8')
     resolve(output)
   })
