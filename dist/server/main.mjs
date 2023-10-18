@@ -27,7 +27,8 @@ const allFamily = {
   "MiSans": ["thin", "extralight", "light", "regular", "medium", "bold", "black"],
   "smiley-sans": ["regular"],
   "LXGWWenKai": ["light", "regular", "bold"],
-  "LXGWWenKaiMono": ["light", "regular", "bold"]
+  "LXGWWenKaiMono": ["light", "regular", "bold"],
+  "\u4ED3\u8033\u4ECA\u6977": ["regular"]
 };
 const ranges = {
   "[5]": [
