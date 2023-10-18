@@ -6,6 +6,27 @@
 
 > 此项目为最小实验品
 
+## 使用
+
+将字体文件放入`lib\fonts`
+`server\generateCss.ts`处添加字体
+```
+pip install -r requirements.txt
+npx esno .\scripts\splitFonts.ts
+npm run build
+git commit -am 'update'
+git push
+```
+首次克隆至服务器
+```
+npm i -g pm2
+cd chinese-fonts-server/
+pm2 start dist/server/main.cjs
+pnpm i --production
+pm2 restart 0
+pm2 save
+pm2 startup
+```
 
 ## 支持的字体
 - 阿里巴巴普惠体2.0
