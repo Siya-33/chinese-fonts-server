@@ -1,0 +1,29 @@
+{
+  "name": "chinese-fonts-server",
+  "version": "1.0.0",
+  "description": "chinese fonts server",
+  "author": "dcwjoy",
+  "license": "ISC",
+  "main": "server/main.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "fetchRange": "esno ./scripts/fetchGoogleUnicodeRanges.ts",
+    "splitFonts": "esno ./scripts/splitFonts.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "unbuild"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@dcwjoy/eslint-config": "^0.39.31",
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.6.2",
+    "eslint": "^8.49.0",
+    "esno": "^0.17.0",
+    "unbuild": "^2.0.0"
+  }
+}

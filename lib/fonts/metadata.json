@@ -1,0 +1,56 @@
+[
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "Heavy",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-105-Heavy.ttf",
+    "fileName": "AlibabaPuHuiTi-2-105-Heavy"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "Thin",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-35-Thin.ttf",
+    "fileName": "AlibabaPuHuiTi-2-35-Thin"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "Light",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-45-Light.ttf",
+    "fileName": "AlibabaPuHuiTi-2-45-Light"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "Regular",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-55-Regular.ttf",
+    "fileName": "AlibabaPuHuiTi-2-55-Regular"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "Medium",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-65-Medium.ttf",
+    "fileName": "AlibabaPuHuiTi-2-65-Medium"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "SemiBold",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-75-SemiBold.ttf",
+    "fileName": "AlibabaPuHuiTi-2-75-SemiBold"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "Bold",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-85-Bold.ttf",
+    "fileName": "AlibabaPuHuiTi-2-85-Bold"
+  },
+  {
+    "fontName": "AlibabaPuHuiTi-2",
+    "fontWeight": "ExtraBold",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/AlibabaPuHuiTi-2/AlibabaPuHuiTi-2-95-ExtraBold.ttf",
+    "fileName": "AlibabaPuHuiTi-2-95-ExtraBold"
+  },
+  {
+    "fontName": "仓耳今楷",
+    "fontWeight": "regular",
+    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03W04-regular.ttf",
+    "fileName": "仓耳今楷03W04-regular"
+  }
+]
