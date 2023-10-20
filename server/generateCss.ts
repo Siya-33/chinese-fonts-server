@@ -24,15 +24,11 @@ function getFontWeightNum(weight: string) {
 
 // warning todo 自动生成配置
 const allFamily = {
-  'AlibabaPuHuiTi-2': ['thin', 'light', 'regular', 'medium', 'semibold', 'bold', 'extrabold', 'black', 'heavy'],
-  'HarmonyOS_Sans_SC': ['thin', 'light', 'regular', 'medium', 'bold', 'black'],
-  'HarmonyOS_Sans_TC': ['thin', 'light', 'regular', 'medium', 'bold', 'black'],
-  'MiSans': ['thin', 'extralight', 'light', 'regular', 'medium', 'bold', 'black'],
-  'smiley-sans': ['regular'],
   'LXGWWenKai': ['light', 'regular', 'bold'],
-  'LXGWWenKaiMono': ['light', 'regular', 'bold'],
-  'LXGWWenKaiScreen': ['regular'],
-  '仓耳今楷': ['regular'],
+  '仓耳今楷': ['thin','light','medium','bold','black'],
+  'Cervanttis':['regular'],
+  'FZXKTJW':['regular'],
+  'MaShanZheng':['regular'],
 }
 
 const ranges = {

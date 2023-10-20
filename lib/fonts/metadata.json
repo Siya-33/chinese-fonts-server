@@ -1,14 +1,68 @@
 [
   {
-    "fontName": "LXGWWenKaiScreen",
+    "fontName": "Cervanttis",
     "fontWeight": "regular",
-    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/LXGWWenKaiScreen/LXGWWenKaiScreen-regular.ttf",
-    "fileName": "LXGWWenKaiScreen-regular"
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/Cervanttis/Cervanttis-regular.ttf",
+    "fileName": "Cervanttis-regular"
+  },
+  {
+    "fontName": "FZXKTJW",
+    "fontWeight": "regular",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/FZXKTJW/FZXKTJW-regular.ttf",
+    "fileName": "FZXKTJW-regular"
+  },
+  {
+    "fontName": "LXGWWenKai",
+    "fontWeight": "Bold",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/LXGWWenKai/LXGWWenKai-Bold.ttf",
+    "fileName": "LXGWWenKai-Bold"
+  },
+  {
+    "fontName": "LXGWWenKai",
+    "fontWeight": "Light",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/LXGWWenKai/LXGWWenKai-Light.ttf",
+    "fileName": "LXGWWenKai-Light"
+  },
+  {
+    "fontName": "LXGWWenKai",
+    "fontWeight": "Regular",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/LXGWWenKai/LXGWWenKai-Regular.ttf",
+    "fileName": "LXGWWenKai-Regular"
+  },
+  {
+    "fontName": "MaShanZheng",
+    "fontWeight": "Regular",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/MaShanZheng/MaShanZheng-Regular.ttf",
+    "fileName": "MaShanZheng-Regular"
   },
   {
     "fontName": "仓耳今楷",
-    "fontWeight": "regular",
-    "fontPath": "E:\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03W04-regular.ttf",
-    "fileName": "仓耳今楷03W04-regular"
+    "fontWeight": "thin",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03-W01-thin.ttf",
+    "fileName": "仓耳今楷03-W01-thin"
+  },
+  {
+    "fontName": "仓耳今楷",
+    "fontWeight": "light",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03-W02-light.ttf",
+    "fileName": "仓耳今楷03-W02-light"
+  },
+  {
+    "fontName": "仓耳今楷",
+    "fontWeight": "medium",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03-W03-medium.ttf",
+    "fileName": "仓耳今楷03-W03-medium"
+  },
+  {
+    "fontName": "仓耳今楷",
+    "fontWeight": "bold",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03-W04-bold.ttf",
+    "fileName": "仓耳今楷03-W04-bold"
+  },
+  {
+    "fontName": "仓耳今楷",
+    "fontWeight": "black",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03-W05-black.ttf",
+    "fileName": "仓耳今楷03-W05-black"
   }
 ]
