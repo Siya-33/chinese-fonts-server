@@ -31,6 +31,7 @@ const allFamily = {
   'smiley-sans': ['regular'],
   'LXGWWenKai': ['light', 'regular', 'bold'],
   'LXGWWenKaiMono': ['light', 'regular', 'bold'],
+  'LXGWWenKaiScreen': ['regular'],
   '仓耳今楷': ['regular'],
 }
 

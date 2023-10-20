@@ -28,6 +28,7 @@ const allFamily = {
   "smiley-sans": ["regular"],
   "LXGWWenKai": ["light", "regular", "bold"],
   "LXGWWenKaiMono": ["light", "regular", "bold"],
+  "LXGWWenKaiScreen": ["regular"],
   "\u4ED3\u8033\u4ECA\u6977": ["regular"]
 };
 const ranges = {
