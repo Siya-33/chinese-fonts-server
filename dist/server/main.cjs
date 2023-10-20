@@ -9002,7 +9002,7 @@ async function generateFontCss(family, weight) {
       for (let idx = 0; idx < entries.length; idx++) {
         const key = entries[idx][0];
         const keyId = /\d+/g.exec(key)[0];
-        const url = `http://font.shirakii.com/fonts_chunk/${family}/${fontWeight}/${keyId}.woff2`;
+        const url = `https://font.shirakii.com/fonts_chunk/${family}/${fontWeight}/${keyId}.woff2`;
         const rule = getCss(key, family, getFontWeightNum(fontWeight), url, entries[idx][1]);
         fontFace.push(rule);
       }
