@@ -36,6 +36,12 @@
     "fileName": "MaShanZheng-Regular"
   },
   {
+    "fontName": "STKaiti",
+    "fontWeight": "regular",
+    "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/STKaiti/STKaiti-regular.ttf",
+    "fileName": "STKaiti-regular"
+  },
+  {
     "fontName": "仓耳今楷",
     "fontWeight": "thin",
     "fontPath": "F:\\Projects\\Web\\chinese-fonts-server\\lib/fonts/仓耳今楷/仓耳今楷03-W01-thin.ttf",

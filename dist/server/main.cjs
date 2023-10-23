@@ -34,7 +34,8 @@ const allFamily = {
   "\u4ED3\u8033\u4ECA\u6977": ["thin", "light", "medium", "bold", "black"],
   "Cervanttis": ["regular"],
   "FZXKTJW": ["regular"],
-  "MaShanZheng": ["regular"]
+  "MaShanZheng": ["regular"],
+  "STKaiti": ["regular"]
 };
 const ranges = {
   "[5]": [

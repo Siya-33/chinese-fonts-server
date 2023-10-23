@@ -29,6 +29,7 @@ const allFamily = {
   'Cervanttis':['regular'],
   'FZXKTJW':['regular'],
   'MaShanZheng':['regular'],
+  'STKaiti':['regular'],
 }
 
 const ranges = {

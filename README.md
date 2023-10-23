@@ -41,6 +41,7 @@
 
 ```shell
 pip install -r requirements.txt
+pnpm i
 npx esno .\scripts\splitFonts.ts
 npm run build
 git commit -am 'update'
