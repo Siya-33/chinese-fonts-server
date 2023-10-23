@@ -6,13 +6,38 @@
 
 > 此项目为最小实验品
 
-## 使用
+## 支持的字体
+- [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/tree/main)
+  - 字体名：LXGWWenKai
+  - 字重：300, 400, 700
+- 仓耳今楷
+  - 字体名：仓耳今楷
+  - 字重：100,300,500,700,900
+- Cervanttis
+  - 字体名：Cervanttis
+  - 字重：400
+- 方正新楷体简体
+  - 字体名：FZXKTJW
+  - 字重：400
+- Ma Shan Zheng
+  - 字体名：MaShanZheng
+  - 字重：400
+
+## 配置
 
 已安装Node.js和npm
 
-将字体文件放入`lib\fonts`
+将字体文件放入`lib\fonts`,按照字重给ttf文件添加后缀，大小写不敏感，表格如下
 
-`server\generateCss.ts`处添加字体
+| 字体名 | 字重 | ttf文件名 |
+| :----: | :--: | :--------: |
+| LXGWWenKai | 300 | LXGWWenKai-Light.ttf |
+| LXGWWenKai | 400 | LXGWWenKai-Regular.ttf |
+| LXGWWenKai | 700 | LXGWWenKai-Bold.ttf |
+
+具体名称见`generateCss.ts`
+
+在`server\generateCss.ts`的`allFamily`处添加字体
 
 ```shell
 pip install -r requirements.txt
@@ -40,12 +65,6 @@ pm2 startup
 git pull
 pm2 restart 0
 ```
-
-## 支持的字体
-- [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/tree/main)
-  - 字体名：LXGWWenKai
-  - 字重：300, 400, 700
-  
 ## 使用方式
 1. css import 引入
 

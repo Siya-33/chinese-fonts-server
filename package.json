@@ -2,7 +2,7 @@
   "name": "chinese-fonts-server",
   "version": "1.0.0",
   "description": "chinese fonts server",
-  "author": "dcwjoy",
+  "author": "dcwjoy&shirakii",
   "license": "ISC",
   "main": "server/main.ts",
   "directories": {
