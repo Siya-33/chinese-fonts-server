@@ -56,7 +56,7 @@ pm2 restart 0
 2. link 标签
 
 ```html
-  <!-- /* 阿里巴巴普惠体 */ -->
+  <!-- /* 霞鹜文楷 */ -->
   <link rel="stylesheet" href="https://example.com/font?family=LXGWWenKai:wght@300|400|700"></link>
 ```
 ## 效果展示

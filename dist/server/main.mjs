@@ -21,15 +21,11 @@ function getFontWeightNum(weight) {
   }
 }
 const allFamily = {
-  "AlibabaPuHuiTi-2": ["thin", "light", "regular", "medium", "semibold", "bold", "extrabold", "black", "heavy"],
-  "HarmonyOS_Sans_SC": ["thin", "light", "regular", "medium", "bold", "black"],
-  "HarmonyOS_Sans_TC": ["thin", "light", "regular", "medium", "bold", "black"],
-  "MiSans": ["thin", "extralight", "light", "regular", "medium", "bold", "black"],
-  "smiley-sans": ["regular"],
   "LXGWWenKai": ["light", "regular", "bold"],
-  "LXGWWenKaiMono": ["light", "regular", "bold"],
-  "LXGWWenKaiScreen": ["regular"],
-  "\u4ED3\u8033\u4ECA\u6977": ["regular"]
+  "\u4ED3\u8033\u4ECA\u6977": ["thin", "light", "medium", "bold", "black"],
+  "Cervanttis": ["regular"],
+  "FZXKTJW": ["regular"],
+  "MaShanZheng": ["regular"]
 };
 const ranges = {
   "[5]": [
