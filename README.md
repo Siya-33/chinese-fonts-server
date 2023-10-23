@@ -78,6 +78,8 @@ pm2 restart 0
   <!-- /* 霞鹜文楷 */ -->
   <link rel="stylesheet" href="https://example.com/font?family=LXGWWenKai:wght@300|400|700"></link>
 ```
-## 效果展示
+## 字体预览
+
+![font preview](./font-preview.png)
 
 **服务器可能随时关闭,如需使用,可以将项目将项目部署在自己的服务器**
