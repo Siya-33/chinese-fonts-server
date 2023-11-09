@@ -5,6 +5,7 @@
 ## 说明
 
 > 此项目为最小实验品
+> 注意部分字体非免费商用，仅个人使用
 
 ## 支持的字体
 - [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/tree/main)
